@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+#page-container{
+    width: 50%;
+    margin: 150px auto 0; 
+    text-align: center;
+}
+#joke-container{
+    border: solid 10px pink;
+    text-align: center;
+    background-color: whitesmoke;
+}
+#joke{
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#btn{
+    margin: 30px;
+    background-color: pink;
+    border-radius: 15%;
+    padding: 10px;
+    border: solid 3px;
+    font-size: large;
+}
+#dad-jokes{
+    color: pink;
+}
