@@ -25,6 +25,9 @@ body{
     border: solid 3px;
     font-size: large;
 }
+#btn:hover{
+    background-color: whitesmoke;
+}
 #dad-jokes{
     color: pink;
 }
